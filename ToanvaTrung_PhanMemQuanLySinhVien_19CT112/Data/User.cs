@@ -1,0 +1,56 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Data
+{
+    public class User:IComparable
+    {
+        private int iD;
+        private string fullName;
+        private bool sex;
+        private string userName;
+        private string passWord;
+        private bool remember;
+        private int idUserType;
+        public User() { }
+        public User(int iD, string userName, string passWord, bool remeber)
+        {
+            this.iD = iD;
+            this.userName = userName;
+            this.passWord = passWord;
+            this.remember = remeber;
+        }
+
+        public int ID { get { return iD; } set { iD = value; } }
+
+        public string UserName { get => userName; set => userName = value; }
+        public string PassWord { get => passWord; set => passWord = value; }
+        public bool Remember { get => remember; set => remember = value; }
+        public int IdUserType { get => idUserType; set => idUserType = value; }
+        public string FullName { get => fullName; set => fullName = value; }
+        public bool Sex { get => sex; set => sex = value; }
+
+
+        public string GetString()
+        {
+            return string.Format("{0},{1},{2},{3},{4}", ID, UserName, PassWord, Remember.ToString(), IdUserType);
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (obj is User)
+            {
+                return this.ID.Equals(((User)obj).ID);
+            }
+            return false;
+        }
+
+        public int CompareTo(object obj)
+        {
+            return this.ID.CompareTo(((User)obj).ID);
+        }
+    }
+}

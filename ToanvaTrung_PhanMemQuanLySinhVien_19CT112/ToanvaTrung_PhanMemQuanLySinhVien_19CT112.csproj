@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B7C747E3-8285-463D-9368-7B2EF27B2BC0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ToanvaTrung_PhanMemQuanLySinhVien_19CT112</RootNamespace>
+    <AssemblyName>ToanvaTrung_PhanMemQuanLySinhVien_19CT112</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=6.9.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Cshape\C#\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.3.2, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.3.2\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Nito.Comparers.Core, Version=6.2.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Nito.Comparers.Core.6.2.2\lib\net461\Nito.Comparers.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Nito.Comparers.Linq, Version=6.2.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Nito.Comparers.Linq.6.2.2\lib\net472\Nito.Comparers.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Xml.Linq.3.5.21022.801\lib\net20\System.Xml.Linq.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="XanderUI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Cshape\C#\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\XanderUI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cls_Main.cs" />
+    <Compile Include="ConnectSQl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnectSQl.Designer.cs">
+      <DependentUpon>ConnectSQl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\User.cs" />
+    <Compile Include="Data\UserDao.cs" />
+    <Compile Include="Data\UserType.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.cs">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ChangedPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ChangedPassword.Designer.cs">
+      <DependentUpon>Frm_ChangedPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Login.Designer.cs">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Users_Main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frm_Users_Main.Designer.cs">
+      <DependentUpon>Frm_Users_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ThemNguoiDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ThemNguoiDung.Designer.cs">
+      <DependentUpon>Frm_ThemNguoiDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KSsv.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLSVDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLSVDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyDiem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QuanLyDiem.Designer.cs">
+      <DependentUpon>QuanLyDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SinhVien\SinhVien.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="QuanLySinhVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QuanLySinhVien.Designer.cs">
+      <DependentUpon>QuanLySinhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrol\KiemSinhvVienNghi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrol\KiemSinhvVienNghi.designer.cs">
+      <DependentUpon>KiemSinhvVienNghi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XuatFileEX.cs" />
+    <EmbeddedResource Include="ConnectSQl.resx">
+      <DependentUpon>ConnectSQl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ChangedPassword.resx">
+      <DependentUpon>Frm_ChangedPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Login.resx">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Users_Main.resx">
+      <DependentUpon>Frm_Users_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ThemNguoiDung.resx">
+      <DependentUpon>Frm_ThemNguoiDung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="bin\Debug\ReportSV.rdlc" />
+    <EmbeddedResource Include="QuanLyDiem.resx">
+      <DependentUpon>QuanLyDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLySinhVien.resx">
+      <DependentUpon>QuanLySinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrol\KiemSinhvVienNghi.resx">
+      <DependentUpon>KiemSinhvVienNghi.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QLSVDataSet.xsc">
+      <DependentUpon>QLSVDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLSVDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLSVDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLSVDataSet.xss">
+      <DependentUpon>QLSVDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\ic_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_capital_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_capital_52px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_combo_chart_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_combo_chart_52px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_dog_house_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_dog_house_52px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_exit_52px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_music_folder_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_music_folder_52px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_notification_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_settings_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\laptop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mac-os.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tb.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Anh\add_32px.png" />
+    <Content Include="Anh\anhmenuprj31.jpg" />
+    <Content Include="Anh\exit22.png" />
+    <Content Include="Anh\login.png" />
+    <Content Include="Anh\maintenance_22px.png" />
+    <Content Include="Anh\maintenance_32px.png" />
+    <Content Include="Anh\myTexture2dbtnl.png" />
+    <Content Include="Anh\no_32px.png" />
+    <Content Include="Anh\panner top 2.jpg" />
+    <Content Include="Anh\panner top.jpg" />
+    <Content Include="Anh\remove_32px.png" />
+    <Content Include="Anh\search_32px.png" />
+    <Content Include="bin\chuoi.txt" />
+    <Content Include="bin\qlbh.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images2\alarm.png" />
+    <Content Include="images2\arrowdown.png" />
+    <Content Include="images2\arrowleft.png" />
+    <Content Include="images2\arrowright.png" />
+    <Content Include="images2\arrowup.png" />
+    <Content Include="images2\bank.png" />
+    <Content Include="images2\briefcase.png" />
+    <Content Include="images2\calculator.png" />
+    <Content Include="images2\camera.png" />
+    <Content Include="images2\clapboard.png" />
+    <Content Include="images2\clock.png" />
+    <Content Include="images2\connections.png" />
+    <Content Include="images2\credit_card.png" />
+    <Content Include="images2\database.png" />
+    <Content Include="images2\delete.png" />
+    <Content Include="images2\delivery.png" />
+    <Content Include="images2\disk.png" />
+    <Content Include="images2\eject.png" />
+    <Content Include="images2\fastforward.png" />
+    <Content Include="images2\filter.png" />
+    <Content Include="images2\fire.png" />
+    <Content Include="images2\first_aid.png" />
+    <Content Include="images2\folder.png" />
+    <Content Include="images2\forwardtoend.png" />
+    <Content Include="images2\games.png" />
+    <Content Include="images2\graph.png" />
+    <Content Include="images2\heart.png" />
+    <Content Include="images2\hi-def\alarm.png" />
+    <Content Include="images2\hi-def\arrowdown.png" />
+    <Content Include="images2\hi-def\arrowleft.png" />
+    <Content Include="images2\hi-def\arrowright.png" />
+    <Content Include="images2\hi-def\arrowup.png" />
+    <Content Include="images2\hi-def\bank.png" />
+    <Content Include="images2\hi-def\briefcase.png" />
+    <Content Include="images2\hi-def\calculator.png" />
+    <Content Include="images2\hi-def\camera.png" />
+    <Content Include="images2\hi-def\clapboard.png" />
+    <Content Include="images2\hi-def\clock.png" />
+    <Content Include="images2\hi-def\connections.png" />
+    <Content Include="images2\hi-def\credit_card.png" />
+    <Content Include="images2\hi-def\database.png" />
+    <Content Include="images2\hi-def\delete.png" />
+    <Content Include="images2\hi-def\delivery.png" />
+    <Content Include="images2\hi-def\disk.png" />
+    <Content Include="images2\hi-def\eject.png" />
+    <Content Include="images2\hi-def\fastforward.png" />
+    <Content Include="images2\hi-def\filter.png" />
+    <Content Include="images2\hi-def\fire.png" />
+    <Content Include="images2\hi-def\first_aid.png" />
+    <Content Include="images2\hi-def\folder.png" />
+    <Content Include="images2\hi-def\forwardtoend.png" />
+    <Content Include="images2\hi-def\games.png" />
+    <Content Include="images2\hi-def\graph.png" />
+    <Content Include="images2\hi-def\heart.png" />
+    <Content Include="images2\hi-def\house.png" />
+    <Content Include="images2\hi-def\lightbulb.png" />
+    <Content Include="images2\hi-def\magnet.png" />
+    <Content Include="images2\hi-def\magnifyingglass.png" />
+    <Content Include="images2\hi-def\mailclosed.png" />
+    <Content Include="images2\hi-def\mailopened.png" />
+    <Content Include="images2\hi-def\man.png" />
+    <Content Include="images2\hi-def\minus.png" />
+    <Content Include="images2\hi-def\monitor.png" />
+    <Content Include="images2\hi-def\move.png" />
+    <Content Include="images2\hi-def\newspaper.png" />
+    <Content Include="images2\hi-def\padlock.png" />
+    <Content Include="images2\hi-def\page.png" />
+    <Content Include="images2\hi-def\pause.png" />
+    <Content Include="images2\hi-def\pencilangled.png" />
+    <Content Include="images2\hi-def\pencilstraight.png" />
+    <Content Include="images2\hi-def\photos.png" />
+    <Content Include="images2\hi-def\piggy.png" />
+    <Content Include="images2\hi-def\play.png" />
+    <Content Include="images2\hi-def\plus.png" />
+    <Content Include="images2\hi-def\preferences.png" />
+    <Content Include="images2\hi-def\record.png" />
+    <Content Include="images2\hi-def\refresh.png" />
+    <Content Include="images2\hi-def\reload.png" />
+    <Content Include="images2\hi-def\rewind.png" />
+    <Content Include="images2\hi-def\rewindtostart.png" />
+    <Content Include="images2\hi-def\rss.png" />
+    <Content Include="images2\hi-def\safe.png" />
+    <Content Include="images2\hi-def\scales.png" />
+    <Content Include="images2\hi-def\shoppingcart.png" />
+    <Content Include="images2\hi-def\speaker.png" />
+    <Content Include="images2\hi-def\speechbubble.png" />
+    <Content Include="images2\hi-def\speechmedia.png" />
+    <Content Include="images2\hi-def\star.png" />
+    <Content Include="images2\hi-def\trash.png" />
+    <Content Include="images2\hi-def\trend.png" />
+    <Content Include="images2\hi-def\world.png" />
+    <Content Include="images2\house.png" />
+    <Content Include="images2\lightbulb.png" />
+    <Content Include="images2\magnet.png" />
+    <Content Include="images2\magnifyingglass.png" />
+    <Content Include="images2\mailclosed.png" />
+    <Content Include="images2\mailopened.png" />
+    <Content Include="images2\man.png" />
+    <Content Include="images2\minus.png" />
+    <Content Include="images2\monitor.png" />
+    <Content Include="images2\move.png" />
+    <Content Include="images2\newspaper.png" />
+    <Content Include="images2\padlock.png" />
+    <Content Include="images2\page.png" />
+    <Content Include="images2\pause.png" />
+    <Content Include="images2\pencilangled.png" />
+    <Content Include="images2\pencilstraight.png" />
+    <Content Include="images2\photos.png" />
+    <Content Include="images2\piggy.png" />
+    <Content Include="images2\play.png" />
+    <Content Include="images2\plus.png" />
+    <Content Include="images2\preferences.png" />
+    <Content Include="images2\record.png" />
+    <Content Include="images2\refresh.png" />
+    <Content Include="images2\reload.png" />
+    <Content Include="images2\rewind.png" />
+    <Content Include="images2\rewindtostart.png" />
+    <Content Include="images2\rss.png" />
+    <Content Include="images2\safe.png" />
+    <Content Include="images2\scales.png" />
+    <Content Include="images2\shoppingcart.png" />
+    <Content Include="images2\speaker.png" />
+    <Content Include="images2\speechbubble.png" />
+    <Content Include="images2\speechmedia.png" />
+    <Content Include="images2\star.png" />
+    <Content Include="images2\trash.png" />
+    <Content Include="images2\trend.png" />
+    <Content Include="images2\world.png" />
+    <Content Include="Images\home_32px.png" />
+    <Content Include="Images\icons8_login_rounded_up.ico" />
+    <Content Include="Images\icons8_login_rounded_up_16.png" />
+    <Content Include="Images\icons8_login_rounded_up_32.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Images\image_PhanMemQuanLySinhVien 1.jpg" />
+    <Content Include="Images\logout_rounded_left_32px.png" />
+    <Content Include="Images\refresh_32px.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

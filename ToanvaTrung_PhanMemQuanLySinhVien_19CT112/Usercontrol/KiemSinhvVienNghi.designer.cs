@@ -1,0 +1,150 @@
+﻿
+namespace ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Usercontrol
+{
+    partial class KiemSinhvVienNghi
+    {
+        /// <summary> 
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary> 
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Component Designer generated code
+
+        /// <summary> 
+        /// Required method for Designer support - do not modify 
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.ID = new System.Windows.Forms.TextBox();
+            this.Tensinhvien = new System.Windows.Forms.TextBox();
+            this.Tinhtrang = new System.Windows.Forms.ComboBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.lb_thongbao = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // ID
+            // 
+            this.ID.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ID.Location = new System.Drawing.Point(345, 36);
+            this.ID.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.ID.Name = "ID";
+            this.ID.Size = new System.Drawing.Size(269, 34);
+            this.ID.TabIndex = 0;
+            this.ID.TextChanged += new System.EventHandler(this.ID_TextChanged);
+            this.ID.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.ID_KeyPress);
+            // 
+            // Tensinhvien
+            // 
+            this.Tensinhvien.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Tensinhvien.Location = new System.Drawing.Point(345, 96);
+            this.Tensinhvien.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Tensinhvien.Name = "Tensinhvien";
+            this.Tensinhvien.Size = new System.Drawing.Size(269, 34);
+            this.Tensinhvien.TabIndex = 0;
+            // 
+            // Tinhtrang
+            // 
+            this.Tinhtrang.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Tinhtrang.FormattingEnabled = true;
+            this.Tinhtrang.Items.AddRange(new object[] {
+            "Nghỉ",
+            "Đang học"});
+            this.Tinhtrang.Location = new System.Drawing.Point(673, 92);
+            this.Tinhtrang.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Tinhtrang.Name = "Tinhtrang";
+            this.Tinhtrang.Size = new System.Drawing.Size(160, 37);
+            this.Tinhtrang.TabIndex = 1;
+            // 
+            // label1
+            // 
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label1.Location = new System.Drawing.Point(139, 47);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(52, 28);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "ID";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // label2
+            // 
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.label2.Location = new System.Drawing.Point(139, 96);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(199, 28);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Tên Sinh viên";
+            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label3
+            // 
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label3.Location = new System.Drawing.Point(668, 36);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(167, 39);
+            this.label3.TabIndex = 2;
+            this.label3.Text = "Tình Trạng";
+            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // lb_thongbao
+            // 
+            this.lb_thongbao.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_thongbao.ForeColor = System.Drawing.Color.Red;
+            this.lb_thongbao.Location = new System.Drawing.Point(673, 171);
+            this.lb_thongbao.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lb_thongbao.Name = "lb_thongbao";
+            this.lb_thongbao.Size = new System.Drawing.Size(316, 58);
+            this.lb_thongbao.TabIndex = 4;
+            // 
+            // KiemSinhvVienNghi
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.SkyBlue;
+            this.Controls.Add(this.lb_thongbao);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.Tinhtrang);
+            this.Controls.Add(this.Tensinhvien);
+            this.Controls.Add(this.ID);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Name = "KiemSinhvVienNghi";
+            this.Size = new System.Drawing.Size(1012, 244);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.TextBox ID;
+        private System.Windows.Forms.TextBox Tensinhvien;
+        private System.Windows.Forms.ComboBox Tinhtrang;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label lb_thongbao;
+    }
+}

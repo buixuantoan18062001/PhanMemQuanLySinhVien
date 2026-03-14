@@ -1,0 +1,395 @@
+B:\DeTaiC#\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe.config
+B:\DeTaiC#\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe
+B:\DeTaiC#\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.pdb
+B:\DeTaiC#\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\DevComponents.DotNetBar2.dll
+B:\DeTaiC#\YoutubeMacDemo\YoutubeMacDemo\bin\Debug\XanderUI.dll
+B:\DeTaiC#\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.AssemblyReference.cache
+B:\DeTaiC#\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.SuggestedBindingRedirects.cache
+B:\DeTaiC#\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form1.resources
+B:\DeTaiC#\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Properties.Resources.resources
+B:\DeTaiC#\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.UC_Dashboard.resources
+B:\DeTaiC#\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Usercontrol.KiemSinhvVienNghi.resources
+B:\DeTaiC#\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.GenerateResource.cache
+B:\DeTaiC#\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.CoreCompileInputs.cache
+B:\DeTaiC#\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.CopyComplete
+B:\DeTaiC#\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe
+B:\DeTaiC#\YoutubeMacDemo\YoutubeMacDemo\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.pdb
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe.config
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.pdb
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\DevComponents.DotNetBar2.dll
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\XanderUI.dll
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.AssemblyReference.cache
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.SuggestedBindingRedirects.cache
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_Login.resources
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Properties.Resources.resources
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Usercontrol.KiemSinhvVienNghi.resources
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.GenerateResource.cache
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.CoreCompileInputs.cache
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.CopyComplete
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.pdb
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_QuanLyDiemSV.resources
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_QuanLySV.resources
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Core.dll
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Linq.dll
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Core.xml
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Linq.xml
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_Users_Main.resources
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_Lop.resources
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form1.resources
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_ThemNguoiDung.resources
+B:\DeTaiC#\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_ChangedPassword.resources
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe.config
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.pdb
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Core.dll
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Linq.dll
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Core.xml
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Linq.xml
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.AssemblyReference.cache
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.SuggestedBindingRedirects.cache
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form1.resources
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_ChangedPassword.resources
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_Login.resources
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_Lop.resources
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_QuanLyDiemSV.resources
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_QuanLySV.resources
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_Users_Main.resources
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_ThemNguoiDung.resources
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Properties.Resources.resources
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Usercontrol.KiemSinhvVienNghi.resources
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.GenerateResource.cache
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.CoreCompileInputs.cache
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.CopyComplete
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.pdb
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Guna.UI2.dll
+D:\C# + SQL\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.UserControl1.resources
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe.config
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.pdb
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Guna.UI2.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Core.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Linq.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Core.xml
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Linq.xml
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.AssemblyReference.cache
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.SuggestedBindingRedirects.cache
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.ConnectSQl.resources
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form1.resources
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_ChangedPassword.resources
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_Login.resources
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_Lop.resources
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_QuanLyDiemSV.resources
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_QuanLySV.resources
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_Users_Main.resources
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_ThemNguoiDung.resources
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Properties.Resources.resources
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.UserControl1.resources
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Usercontrol.KiemSinhvVienNghi.resources
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.GenerateResource.cache
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.CoreCompileInputs.cache
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.CopyComplete
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.pdb
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form2.resources
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\EnvDTE.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form3.resources
+D:\C# + SQL\Kiểm Tra 40%\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form4.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe.config
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.pdb
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Guna.UI2.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Core.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Linq.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\EnvDTE.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Core.xml
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Linq.xml
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.AssemblyReference.cache
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.SuggestedBindingRedirects.cache
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.ConnectSQl.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form1.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form2.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form3.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form4.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_ChangedPassword.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_Login.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_Lop.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_QuanLyDiemSV.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_QuanLySV.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_Users_Main.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_ThemNguoiDung.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Properties.Resources.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.UserControl1.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Usercontrol.KiemSinhvVienNghi.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.GenerateResource.cache
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.CoreCompileInputs.cache
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.CopyComplete
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.pdb
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form5.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form6.resources
+D:\C# + SQL\Report\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form7.resources
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe.config
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.pdb
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Guna.UI2.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Core.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Linq.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\EnvDTE.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Core.xml
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Linq.xml
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.AssemblyReference.cache
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.SuggestedBindingRedirects.cache
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.ConnectSQl.resources
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form1.resources
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form2.resources
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form3.resources
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form4.resources
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form5.resources
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form6.resources
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_ChangedPassword.resources
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_Login.resources
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_QuanLySV.resources
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_Users_Main.resources
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_ThemNguoiDung.resources
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Properties.Resources.resources
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Usercontrol.KiemSinhvVienNghi.resources
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.GenerateResource.cache
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.CoreCompileInputs.cache
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.CopyComplete
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.pdb
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.QuanLyDiem.resources
+E:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.QuanLySinhVien.resources
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.AssemblyReference.cache
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.SuggestedBindingRedirects.cache
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.ConnectSQl.resources
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form1.resources
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form2.resources
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form5.resources
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Form7.resources
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_ChangedPassword.resources
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_Login.resources
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_Users_Main.resources
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Frm_ThemNguoiDung.resources
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Properties.Resources.resources
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.QuanLyDiem.resources
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.QuanLySinhVien.resources
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.Usercontrol.KiemSinhvVienNghi.resources
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.GenerateResource.cache
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.CoreCompileInputs.cache
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.pdb
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe.config
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.exe
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.pdb
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Guna.UI2.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.Common.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.Design.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Microsoft.SqlServer.Types.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Core.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Linq.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\EnvDTE.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Core.xml
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\Nito.Comparers.Linq.xml
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\obj\Debug\ToanvaTrung_PhanMemQuanLySinhVien_19CT112.csproj.CopyComplete
+Z:\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\ToanvaTrung_PhanMemQuanLySinhVien_19CT112\bin\Debug\bin\qlbh.mdb
